@@ -1,0 +1,1 @@
+This project - basic demonstrates the Webpack settings required for the project using html ssss in js code
